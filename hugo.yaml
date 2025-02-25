@@ -12,8 +12,7 @@ outputs:
     - "HTML"
     - "RSS"
 
-# TODO
-# enableRobotsTXT: true
+enableRobotsTXT: true
 
 #services:
   #googleAnalytics:
@@ -388,7 +387,7 @@ params:
       path: "blogs"
       count: 3
       title: Recent Posts
-      enable: true
+      enable: false
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/davidbloss
@@ -420,10 +419,10 @@ params:
     pageNotFound: "Page not found"
     emailText: "Check out this site"
 
-  datesFormat:
-    article: "Jan 2, 2025"
-    articleList: "Jan 2, 2025"
-    articleRecent: "Jan 2, 2025"
+  # datesFormat:
+  #   article: "Jan 2, 2025"
+  #   articleList: "Jan 2, 2025"
+  #   articleRecent: "Jan 2, 2025"
 
   #customScripts: -| # You can add custom scripts which will be added before </body> tag
   #  <script type="text/javascript"><!-- any script here --></script>

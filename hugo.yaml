@@ -147,7 +147,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "David Bloss Resume.docx"
       download: true
       newPage: false
     socialLinks:
@@ -247,7 +247,7 @@ params:
             - Automated majority of setup steps, expediting onboarding experience for
               future single-tenant customers and simplifying process for OpsLevel
       - job: "Software Engineer, Developer Productivity"
-        company: "dbtLabs"
+        company: "dbt Labs"
         companyUrl: "https://www.getdbt.com/"
         date: "Nov 2022 - May 2023"
         info:

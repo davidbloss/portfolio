@@ -197,17 +197,62 @@ params:
         company: "OpsLevel"
         companyUrl: "https://opslevel.com/"
         date: "Jul 2023 - Jan 2025"
+        info:
+          enable: false
         # featuredLink:
         #   enable: true
         #   name: "View the project"
         #   url: "https://example.com"
         content: |
-          In progress...
+          I built and optimized the tools and infrastructure used by
+          OpsLevel's customers and employees.
 
+          - I led the Platform team in a major upgrade/rewrite of
+            [OpsLevel's Terrafom provider](https://github.com/OpsLevel/terraform-provider-opslevel).
+            This modernization:
+            - Skyrocketed [test coverage](
+              https://github.com/OpsLevel/terraform-provider-opslevel/actions/workflows/tests-integration.yml
+              ) from 6% up to 85%
+            - Reduced development time by 40%, saving 100+ engineering hours
+            - Strengthed customer trust by resolving bugs plaguing customer infrastructure
+            - Provided a framework for OpsLevel's demo account used by its sales team.
+          - Leveraging my Golang, GraphQL, and internal tooling development expertise:
+            - I automated OpsLevel's Go API client development by designing self-generating
+              code by templating a GraphQL API schema into Go data structures and methods
+            - Standardized local development across 10+ projects using Taskfiles, common
+              tasks were centralized then applied to CI, boosting developer productivity
+            - Personally contributed majority of OpsLevel's public code changes; 85% of [Terrafom Provider](
+              https://github.com/OpsLevel/terraform-provider-opslevel/graphs/contributors?from=6%2F27%2F2023&to=1%2F30%2F2025
+              ), 76% of [Go API client](
+              https://github.com/OpsLevel/opslevel-go/graphs/contributors?from=6%2F27%2F2023&to=1%2F30%2F2025
+              ), and 56% of [cli](
+              https://github.com/OpsLevel/cli/graphs/contributors?from=6%2F27%2F2023&to=1%2F30%2F2025
+              )
+          - While maintaining OpsLevel's Kubernetes infrastructure:
+            - I performed 15 AWS EKS cluster upgrades while automating the process,
+              reducing upgrade time/effort and AWS expenditures
+            - Introduced [Network Policies](
+              https://docs.datadoghq.com/containers/datadog_operator/
+              ) for improved security
+            - Set up [DataDog's Operator](
+              https://docs.datadoghq.com/containers/datadog_operator/
+              ) across OpsLevel's clusters
+            - Diagnosed cluster issues, resource constraints, and streamlined
+              alerting systems
+          - Instrumental in building OpsLevel's first single-tenant AWS instance:
+            - I codified AWS resources into Terrafom modules and Kubernetes manifests,
+              expediting infrastructure maintenance
+            - Configured cluster RBAC to use customer AWS IAM roles, removing
+              OpsLevel's need to host credentials and fostering trust with
+              this premium customer
+            - Automated majority of setup steps, expediting onboarding experience for
+              future single-tenant customers and simplifying process for OpsLevel
       - job: "Software Engineer, Developer Productivity"
         company: "dbtLabs"
         companyUrl: "https://www.getdbt.com/"
         date: "Nov 2022 - May 2023"
+        info:
+          enable: false
         # featuredLink:
         #   enable: true
         #   url: "https://example.com"
@@ -221,6 +266,8 @@ params:
         company: "Lawrence Livermore National Laboratory"
         companyUrl: "https://www.llnl.gov/"
         date: "May 2018 - Nov 2022"
+        info:
+          enable: false
         # info:
         #   enable: false
         # featuredLink:
@@ -233,6 +280,8 @@ params:
         company: "Workday"
         companyUrl: "https://www.workday.com/"
         date: "Jul 2015 - May 2018"
+        info:
+          enable: false
         # featuredLink:
         #   enable: true
         #   name: "About Workday's Community site"
@@ -244,6 +293,8 @@ params:
         company: "US Air Force"
         companyUrl: "https://www.airforce.com/"
         date: "Nov 2007 - Oct 2017"
+        info:
+          enable: false
         content: |
           Technical Sergeant at the 45 Aeiral Port Squadron.
           Duty positions included
@@ -263,8 +314,8 @@ params:
           name: "California State University - East Bay"
           url: "https://www.csueastbay.edu/"
         date: "2012 - 2015"
-        content: |-
-          Developed an Android app of the boardgame [pandemic](https://boardgamegeek.com/boardgame/30549/pandemic).
+        # content: |-
+        #   Developed an Android app of the boardgame [pandemic](https://boardgamegeek.com/boardgame/30549/pandemic).
       - title: "Associate in Applied Science - Transporation"
         school:
           name: "Community College of the Air Force"

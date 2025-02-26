@@ -257,11 +257,36 @@ params:
         #   url: "https://example.com"
         # info:
         #   enable: true
-        #   content: I worked as a software developer for more than one year in Amazon.
+        #   content: I worked as a software developer for more than one year in Amazon. T
         content: |
-          In progress...
+          I worked on the Release Engineering Team, Internal Services Team,
+          and the OSS Tooling Guild; all with the unified goal of improving
+          developer throughput.
+          - Release Engineering Team
+            - I improved dbt Labs' critical deployment pipeline by optimizing
+              one Github Action's time by 83% (12 minutes down to 2 minutes).
+              This action validated and updated Helm chart values that trigger
+              ArgoCD deployments across an array of microservices.
+            - Developed and mainained the Github Actions, CI, Taskfiles,
+              Dockerfiles, Kubernetes manifests, Helm charts, and ArgoCD
+              that deploy dbt Labs' products.
+          - Internal Services Team
+            - I standardized tool versioning org-wide by developing a Go CLI
+              program that leveraged "asdf" configurations to reported version
+              usage/drift, and manage local tooling upgrades and configuration.
+              This addressed inter-project code issues, reduced subtle bugs,
+              and improved cross-team cohesion.
+          - OSS Tooling Guild
+            - In a day, I developed scripts (using gh cli, bash, awk, rg) that
+              upgraded all deprecated versions of Github Actions used by 100% of
+              dbtlab's CI/CD pipelines. Github was dropping node 12 support for
+              its Github Actions and my work averted a CI/CD crisis a day before
+              support was dropped.
+            - I mentored developers across multiple teams on Github Actions/workflows
+              best practices, Python packaging, and promoting adoption of org-wide
+              standards.
 
-      - job: "Junior Software Developer"
+      - job: "Software Engineer"
         company: "Lawrence Livermore National Laboratory"
         companyUrl: "https://www.llnl.gov/"
         date: "May 2018 - Nov 2022"
@@ -273,7 +298,11 @@ params:
         #   enable: true
         #   url: "https://example.com"
         content: |
-          Lawrence Livermore National Laboratory details
+          As a cleared Software Engineer, I was responsible for developing and
+          maintaining robust codebases, automating workflow processes, and
+          mentoring scientists in specialized areas of computing. My work
+          concurrently spaned across multiple teams and my code is scalable to
+          some of the world's most powerful supercomputers.
 
       - job: "Software Application Engineer"
         company: "Workday"
@@ -286,7 +315,7 @@ params:
         #   name: "About Workday's Community site"
         #   url: "https://www.workday.com/en-us/customer-experience/community.html"
         content: |
-          Workday Community site web developer
+          Fullstack Drupal developer building Workday's Community site.
 
       - job: "Technical Sergeant"
         company: "US Air Force"

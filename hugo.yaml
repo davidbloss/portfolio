@@ -349,12 +349,18 @@ params:
         info:
           enable: false
         content: |
-          Technical Sergeant at the 45 Aeiral Port Squadron.
+          ##### Air Transporation (2011-2017)
+
           Duty positions included
           - Lead QA evaluator
           - Wing Inspection Team member
           - Vehicle Control Officer
           - Airfield Driving Program Manager
+
+          ##### Missile Maintainer (2007-2011)
+
+          I performed inspections, repairs, and replacements on over 100 active
+          Inter Continental Ballistic Missiles.
 
   # Education
   education:

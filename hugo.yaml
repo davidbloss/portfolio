@@ -334,6 +334,13 @@ params:
         #   url: "https://www.workday.com/en-us/customer-experience/community.html"
         content: |
           Fullstack Drupal developer building Workday's Community site.
+          - Instrumental in Community's site upgrade from Drupal 6 to Drupal 8.
+            Developed MySQL/Drupal migration scripts for approximately 120K users,
+            80K media files, 850K subscriptions, 4K organizations, and 2.5M misc
+            records.
+          - Automated test development with Drupal's PHPUnit based testing framework
+            and behat for UI testing via a templating engine, boosting developer
+            throughtput by 20%.
 
       - job: "Technical Sergeant"
         company: "US Air Force"

@@ -7,11 +7,13 @@ socialShare: false
 
 Next week I will be taking the Certified Kubernetes Administrator (CKA) exam.
 
-## Storage - PVs, PVCs, etc.
+## Storage - PVs, PVCs, StorageClasses
 
 Managing Kubernetes Storage is listed first in the [CKA Curriculum v1.32](
 https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_v1.32.pdf
 ) and a critical skill when persisting data with stateful applications.
+
+<i class="fab fa-linkedin">Check it</i>
 
 <!-- ## Local Environment Setup -->
 

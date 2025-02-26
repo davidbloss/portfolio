@@ -298,11 +298,29 @@ params:
         #   enable: true
         #   url: "https://example.com"
         content: |
-          As a cleared Software Engineer, I was responsible for developing and
-          maintaining robust codebases, automating workflow processes, and
-          mentoring scientists in specialized areas of computing. My work
-          concurrently spaned across multiple teams and my code is scalable to
-          some of the world's most powerful supercomputers.
+          As a cleared Software Engineer, I developed and maintained robust
+          codebases, automated workflow processes, and mentored scientists in
+          specialized areas of computing. My work concurrently spaned across
+          multiple teams and my code orchestrated various simulation programs
+          run one of the world's most powerful supercomputers.
+          - I created [Saloon](https://github.com/LLNL/Saloon), LLNL's open-source
+            Vim plugin used to improve Python code quality. Code hosted exclusively
+            on remote servers was largely maintained without IDEs and basic IDE
+            features such as linting, formatting, and syntax highlighting. Saloon
+            combined [ALE](https://github.com/dense-analysis/ale) (Asynchronous
+            Lint Engine) and [Prospector](https://prospector.landscape.io/en/master/)
+            (collection of Python static analysis tools) with a simple Vim UI to
+            provide a suite of configurable realtime diagnositics missing from
+            many developers workflows. As a result, code quality noticeably improved
+            across the lab's physics simulation software.
+          - I initiated lab-wide Python codebase upgrades ahead of the Python 2.7
+            end-of-life deadline by upgrading critical workflow programs, documenting
+            the process, and delivering two technical talks to the lab's 100+
+            engineers/scientists.
+          - I developed a Python script that converted 15+ years of unstructured physics
+            data into visualized metrics that compared compiler performance. These
+            insights highlighted inefficiencies in simulation code and led to reduced
+            runtimes of 20%.
 
       - job: "Software Application Engineer"
         company: "Workday"

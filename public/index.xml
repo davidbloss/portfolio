@@ -13,7 +13,7 @@
       <link>http://localhost:1313/blogs/intro/</link>
       <pubDate>Tue, 25 Feb 2025 10:12:01 -0600</pubDate>
       <guid>http://localhost:1313/blogs/intro/</guid>
-      <description>&lt;p&gt;Next week I will be taking the Certified Kubernetes Administrator (CKA) exam.&lt;/p&gt;&#xA;&lt;h2 id=&#34;storage---pvs-pvcs-etc&#34;&gt;Storage - PVs, PVCs, etc.&lt;/h2&gt;&#xA;&lt;p&gt;Managing Kubernetes Storage is listed first in the &lt;a href=&#34;https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_v1.32.pdf&#34;&gt;CKA Curriculum v1.32&lt;/a&gt; and a critical skill when persisting data with stateful applications.&lt;/p&gt;&#xA;&lt;!-- ## Local Environment Setup --&gt;&#xA;&lt;p&gt;&lt;strong&gt;Work in progress&amp;hellip;&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Next week I will be taking the Certified Kubernetes Administrator (CKA) exam.&lt;/p&gt;&#xA;&lt;h2 id=&#34;storage---pvs-pvcs-storageclasses&#34;&gt;Storage - PVs, PVCs, StorageClasses&lt;/h2&gt;&#xA;&lt;p&gt;Managing Kubernetes Storage is listed first in the &lt;a href=&#34;https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_v1.32.pdf&#34;&gt;CKA Curriculum v1.32&lt;/a&gt; and a critical skill when persisting data with stateful applications.&lt;/p&gt;&#xA;&lt;p&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;Check it&lt;/i&gt;&lt;/p&gt;&#xA;&lt;!-- ## Local Environment Setup --&gt;&#xA;&lt;p&gt;&lt;strong&gt;Work in progress&amp;hellip;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

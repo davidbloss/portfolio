@@ -192,6 +192,16 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "Senior DevOps Engineer"
+        company: "EverOps"
+        companyUrl: "https://www.everops.com/"
+        date: "Jun 2025 - Present"
+        info:
+          enable: false
+        content: |
+          I am leading the flagship Chaos Engineering initiatives of a Fortune 500 company.
+
+          - Stayed tuned for details.
       - job: "Senior Software Developer, Platform Team"
         company: "OpsLevel"
         companyUrl: "https://opslevel.com/"

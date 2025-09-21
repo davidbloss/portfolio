@@ -355,7 +355,7 @@ params:
             records.
           - Automated test development with Drupal's PHPUnit based testing framework
             and behat for UI testing via a templating engine, boosting developer
-            throughtput by 20%.
+            throughput by 20%.
 
       - job: "Technical Sergeant"
         company: "US Air Force"

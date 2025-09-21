@@ -184,8 +184,8 @@ params:
         - "GraphQL"
         - "Node"
         - "Typescript"
-        - "Neovim"
-        - "Lua"
+        - "Helm"
+        - "DataDog"
 
   # Experience
   experience:
@@ -199,9 +199,14 @@ params:
         info:
           enable: false
         content: |
-          I am leading the flagship Chaos Engineering initiatives of a Fortune 500 company.
+          Contracted SRE embedded in IT Infrastructure team of a Fortune 500 company.
 
-          - Stayed tuned for details.
+          - Currently leading implementation and org-wide adoption of Chaos Engineering
+            to improve service and infrastructure resilience of 25+ AWS EKS microservices.
+          - Spearheaded secure, end-to-end development of audit logging services
+            across vendor software used by employees.
+          - Administered, maintained, and developed apps for self-hosted Splunk Enterprise
+            instances used company-wide.
       - job: "Senior Software Developer, Platform Team"
         company: "OpsLevel"
         companyUrl: "https://opslevel.com/"

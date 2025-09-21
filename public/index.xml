@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Bloss</title>
-    <link>http://localhost:1313/</link>
+    <link>https://davidbloss.com/</link>
     <description>Recent content on David Bloss</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Feb 2025 10:12:01 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidbloss.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intros and Background</title>
-      <link>http://localhost:1313/blogs/first/</link>
+      <link>https://davidbloss.com/blogs/first/</link>
       <pubDate>Mon, 24 Feb 2025 10:12:01 -0600</pubDate>
-      <guid>http://localhost:1313/blogs/first/</guid>
-      <description>&lt;p&gt;You could have been anywhere in the world and you&amp;rsquo;re here. &lt;strong&gt;Thank you&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About Me&lt;/h3&gt;&#xA;&lt;p&gt;Professionally I&amp;rsquo;m a mix of Platfrom Engineer, Senior Software Engineer, DevOps, and&#xA;a 10-year US Air Force veteran. Oh, Blockbuster Video? Yep, worked there too, no biggie.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/bg-david-sk8.jpeg&#34; alt=&#34;skateboard-tech-art&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I grew up in the SF Bay Area skateboarding where a fantastic artist drew the above image&#xA;from a picture of me, by hand no less.&lt;/p&gt;&#xA;&lt;h3 id=&#34;blog-content&#34;&gt;Blog Content&lt;/h3&gt;&#xA;&lt;p&gt;It might turn out polished and nice. But for now this is where I&amp;rsquo;ll share my quick notes to the void&#xA;and any deep dives into tech stacks, frameworks, tools, and better practices.&lt;/p&gt;</description>
+      <guid>https://davidbloss.com/blogs/first/</guid>
+      <description>&lt;p&gt;You could have been anywhere in the world and you&amp;rsquo;re here. &lt;strong&gt;Thank you&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About Me&lt;/h3&gt;&#xA;&lt;p&gt;Professionally I&amp;rsquo;m a mix of Platfrom Engineer, Senior Software Engineer, DevOps, and&#xA;a 10-year US Air Force veteran. Oh, Blockbuster Video? Yep, worked there too, no biggie.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://davidbloss.com/images/bg-david-sk8.jpeg&#34; alt=&#34;skateboard-tech-art&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I grew up in the SF Bay Area skateboarding where a fantastic artist drew the above image&#xA;from a picture of me, by hand no less.&lt;/p&gt;&#xA;&lt;h3 id=&#34;blog-content&#34;&gt;Blog Content&lt;/h3&gt;&#xA;&lt;p&gt;It might turn out polished and nice. But for now this is where I&amp;rsquo;ll share my quick notes to the void&#xA;and any deep dives into tech stacks, frameworks, tools, and better practices.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

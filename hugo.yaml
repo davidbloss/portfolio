@@ -147,7 +147,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "David Bloss Resume.docx"
+      url: "David Bloss Resume.pdf"
       download: true
       newPage: false
     socialLinks:

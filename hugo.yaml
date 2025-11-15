@@ -179,13 +179,15 @@ params:
         - "Go"
         - "Python"
         - "Kubernetes"
-        - "Terraform"
-        - "AWS"
-        - "GraphQL"
-        - "Node"
-        - "Typescript"
         - "Helm"
+        - "AWS"
+        - "Terraform"
         - "DataDog"
+        - "Temporal"
+        - "Node.js"
+        - "Typescript"
+        - "GraphQL"
+        - "gRPC/protobuf"
 
   # Experience
   experience:
@@ -202,10 +204,12 @@ params:
           Contracted Site Reliability Engineer embedded in IT Infrastructure team
           of a Fortune 500 company.
 
-          - Currently leading implementation and org-wide adoption of Chaos Engineering
-            to improve service and infrastructure resilience of 25+ AWS EKS microservices.
-          - Spearheaded secure, end-to-end development of audit logging services
-            across vendor software used by employees.
+          - Architected in-house Chaos Engineering framework leveraging AWS SDK, Temporal.io,
+            and StatsD for Datadog monitoring. Experiments on service's infrastructure exposed
+            gaps in observablity, harden disaster recovery processes, and improved resilience of
+            25+ AWS EKS microservices.
+          - Spearheaded secure, end-to-end development of audit logging services across vendor
+            software used by employees to ensure regulatory compliance.
           - Administered, maintained, and developed apps for self-hosted Splunk Enterprise
             instances used company-wide.
       - job: "Senior Software Developer, Platform Team"

@@ -206,7 +206,7 @@ params:
 
           - Architected in-house Chaos Engineering framework leveraging AWS SDK, Temporal.io,
             and StatsD for Datadog monitoring. Experiments on service's infrastructure exposed
-            gaps in observablity, harden disaster recovery processes, and improved resilience of
+            gaps in observability, harden disaster recovery processes, and improved resilience of
             25+ AWS EKS microservices.
           - Spearheaded secure, end-to-end development of audit logging services across vendor
             software used by employees to ensure regulatory compliance.

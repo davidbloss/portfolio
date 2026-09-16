@@ -195,25 +195,25 @@ params:
         info:
           enable: false
         content: |
-          Senior Site Reliability Engineer on IT Infrastructure team
+          Senior Site Reliability Engineer on the IT Infrastructure team
           of a Fortune 500 company.
 
           - Directed the infrastructure design and execution of multiple AI vendor PoCs;
             partnered with 40+ cross-functional teams to implement optimized solutions that
-            reduced annual operational expenditure by $300k.
+            reduced annual operational expenditure by $300k
           - Orchestrated org-wide deployment of an AI Governance, Risk, and Compliance
             (GRC) solution across 140+ AWS accounts by leveraging Terraform workspaces,
-            automating audit evidence collection to reduce annual audit overhead by 160 hours.
+            automating audit evidence collection to reduce annual audit overhead by 160 hours
           - Architected in-house Chaos Engineering framework leveraging AWS SDK, Temporal.io,
             and StatsD for Datadog monitoring. Experiments on service's infrastructure exposed
             gaps in observability, harden disaster recovery processes, and improved resilience of
-            25+ AWS EKS microservices.
+            25+ AWS EKS microservices
           - Engineered multi-platform audit log pipelines across Slack, AWS, and EKS (Golang
             services) to ensure global regulatory compliance; optimized security observability to
-            reduce Mean Time to Detect (MTTD) and Respond (MTTR) by 60%.
+            reduce Mean Time to Detect (MTTD) and Respond (MTTR) by 60%
           - Owned the lifecycle of a company-wide, on-prem Splunk Enterprise platform, managing
             5TB of indexed data; orchestrated seamless version upgrades, application development,
-            and robust RBAC configurations to ensure enterprise-grade observability.
+            and robust RBAC configurations to ensure enterprise-grade observability
       - job: "Senior Software Developer, Platform Team"
         company: "OpsLevel"
         companyUrl: "https://opslevel.com/"
